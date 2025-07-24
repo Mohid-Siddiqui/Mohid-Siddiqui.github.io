@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mohid Siddiqui - Digital Marketer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f8f8;
+      color: #333;
+    }
+    header {
+      background-color: #111;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      padding: 2rem;
+    }
+    .services, .projects, .contact {
+      margin-top: 2rem;
+    }
+    .card {
+      background: white;
+      padding: 1.5rem;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      margin-bottom: 1rem;
+    }
+    footer {
+      background-color: #111;
+      color: #fff;
+      padding: 1rem;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Mohid Siddiqui</h1>
+    <p>Professional Digital Marketer</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <div class="card">
+      <p>Hello! I’m Mohid Siddiqui, a passionate and results-driven digital marketer. I specialize in social media marketing, SEO, PPC, email marketing, and ads management. I help brands grow by delivering impactful online strategies that convert.</p>
+    </div>
+  </section>
+
+  <section class="services">
+    <h2>My Services</h2>
+    <div class="card">
+      <ul>
+        <li>Social Media Marketing</li>
+        <li>Search Engine Optimization (SEO)</li>
+        <li>PPC Campaign Management</li>
+        <li>Email Marketing</li>
+        <li>Ads Management</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="projects">
+    <h2>Case Studies / Projects</h2>
+    <div class="card">
+      <p>Coming soon... Here I will showcase the results I've achieved for brands including sales growth, lead generation improvements, and campaign performance before and after.</p>
+    </div>
+  </section>
+
+  <section class="contact">
+    <h2>Contact Me</h2>
+    <div class="card">
+      <p>Email: [YourEmailHere]</p>
+      <p>Social Links: [Add Your Links Here]</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Mohid Siddiqui. All rights reserved.</p>
+  </footer>
+</body>
+</html>
